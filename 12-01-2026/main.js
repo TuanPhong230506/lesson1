@@ -17,5 +17,7 @@ var fullName = 'Nguyen Tuan Phong';
 var a = 8;
 var b = 2;
 
+var f = 7;
+
 var c = a % b;
 alert (c) 
