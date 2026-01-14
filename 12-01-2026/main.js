@@ -1,4 +1,4 @@
-var fullName = 'Nguyen Tuan Phong';
+// var fullName = 'Nguyen Tuan Phong';
 // var age = 20;
 // alert(fullName);
 // alert(age);
@@ -14,11 +14,17 @@ var fullName = 'Nguyen Tuan Phong';
 //     alert ('a va b lon hon khong')
 // }
 
-var a = 8;
-var b = 2;
-var d = 5;
+// var a = 8;
+// var b = 2;
+// var d = 5;
 
-var f = 7;
+// var a = 20;
 
-var c = a % b;
-alert (c) 
+// a++;
+// console.log(a);
+
+var a = 3;
+
+--a
+
+console.log(a);
