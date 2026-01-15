@@ -79,7 +79,22 @@ If - Else
 //     console.log('Dieu Kien Sai')
 // }
 
-var number = 13;
-var remain = number % 2;
-var isOdd = remain == 1;
-console.log(isOdd)
+// var number = 13;
+// var remain = number % 2;
+// var isOdd = remain == 1;
+// console.log(isOdd)
+
+/**
+ Toan Tu Logic
+ 1. && - And
+ 2. || - Or
+ 3. ! - Not
+ */
+
+ var a = 1;
+ var b = 2;
+ var c = 3;
+
+ if (a < 0 || b < 0 || c > 0){
+    console.log('Dieu Kien Dung');
+ }
