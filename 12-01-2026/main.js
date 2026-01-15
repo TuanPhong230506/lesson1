@@ -23,7 +23,7 @@
 // a++;
 // console.log(a);
 
-var a = 3;
+// var a = 3;
 /**
  * Tien To Va Hau To
  */
